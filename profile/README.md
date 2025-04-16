@@ -21,7 +21,7 @@ The initial model of Iranians.vote consists of two parts: Dialogue and Trustwort
 * Playground for familiarization with the processes and testing the games  
 * Implement experimental platform in a democracy (goe26) and analyze and publish findings
 
-## Mobile Apps
+## Mobile Apps, Website etc. 
 * [Iranian National Identity Card Assistant](https://github.com/Iranians-Vote-Digital-Democracy/INIDCA) (read card's certificate, version, meta data)
 * [Iranians Vote Android App](https://github.com/Iranians-Vote-Digital-Democracy/iranians-vote-android)
 * [Iranians Vote iOS App](https://github.com/Iranians-Vote-Digital-Democracy/iranians-vote-ios)
