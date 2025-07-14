@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
+  - [National ID Card](#support-for-iranian-national-identy-card)
   - [Roadmap](#roadmap)
   - [Mobile Apps & Website](#mobile-apps-website-etc)
   - [Dialogue Section](#dialogue-section)
@@ -16,6 +17,8 @@
 ## Introduction
 Iranians.vote is a digital democracy platform designed for Iranians to empower secure, anonymous, and trustworthy participation in collective decision-making. The project integrates two core components: a Dialogue section, which fosters structured group discussions through Nextodon—a Fediverse- and Mastodon-compatible social network—and a Trustworthy Voting system that ensures every vote is unique, non-repeatable, and fully protected in terms of voter identity and privacy. By leveraging advanced cryptographic methods such as zero-knowledge proofs and biometric document authentication, Iranians.vote guarantees transparency in vote tallying while safeguarding the anonymity and security of its users. The platform is committed to building a verifiable, privacy-preserving digital voting infrastructure accessible via web and mobile applications, with ongoing development to support a broader range of national identity documents and expand its democratic reach.
 
+## Support for Iranian National Identy Card
+* [NID SDK](https://github.com/Iranians-Vote-Digital-Democracy/INIDOSDK)
 ## Roadmap
 * Add newsletter, and collaboration infrastructure for the entire platform  
 * Playground for familiarization with the processes and testing the games  
