@@ -18,8 +18,7 @@ This is accessible to you using any of the following ID cards, the main key stay
 A hash of your data is used to prove your uniqueness. This is achieved using hash functions. A hash function protects privacy by converting sensitive data (like passwords or personal information) into a string of random-looking characters called a hash value. This way the original data cannot easily be revealed or read, even if someone gains access to the stored hash or has a supercomputer.
 
 The identity cards that help you enter the platform are: 
-- National ID Card کارت هوشمند ملی
-https://github.com/Iranians-Vote-Digital-Democracy/INIDOSDK
+- National ID Card کارت هوشمند ملی [INID SDK](https://github.com/Iranians-Vote-Digital-Democracy/INIDOSDK)
 - Biometric Passports. [ZK Passport](https://github.com/rarimo/#zk-passport)
 
 ## An interorganisation Body Needed
