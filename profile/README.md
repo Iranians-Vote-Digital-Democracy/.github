@@ -22,14 +22,13 @@ The identity cards that help you enter the platform are:
 - Biometric Passports. [ZK Passport](https://github.com/rarimo/#zk-passport)
 
 ## An interorganisation Body Needed
-No signle organisation is capable of handling moderation of such a tool, and it needs all of them to be involved, and way beyond that, millions of Iranians and millions of Bitcoin (this one is bad for environment).
-
+No signle organisation is capable of handling moderation of such a platform, and it needs all of them to be involved, and way beyond that, all of the of Iranians.
 
 ## How far are we
-Technology is no longer a challenge, it is now more cultural. Iranians need to adapt to the idea of being in charge of building their own state. And we are not hopeless:  There are [100s](https://github.com/Atlasiran/Atlas-website/issues/29#issuecomment-2557870664) of Iranian organisations, parties and collectives and the numbers grows by day, everywhere in the world.
+Technology is no longer a challenge, the challenge is now more cultural. Iranians have to decide to take the charge of building their own state. We are not entirely hopeless: There are [100s](https://github.com/Atlasiran/Atlas-website/issues/29#issuecomment-2557870664) of Iranian organisations, parties and collectives around the world and their numbers grow by day.
 
-## Capabilities you need
-If you don't have team, you can build one right away, or join a number of groups. If you want to build a party, no worries, platform helps you create one. From drafting code of conduct to drafting and signing all sorts of agreements, to writing motioins, to crowdfound the budgets needed and legislate how it should be spent. From organisation, building defence, to mobilisation, you will have all sorts of monetary, tech, security and communication tools needed. 
+## What you need
+If you don't have a team, you can build one right away, or join a number of groups. If you want to build a party, no worries, platform helps you create one. From drafting a code of conduct to drafting and signing all sorts of agreements, to writing motions collectively, and to crowdfounding the budgets. And for organisation, building defence and mobilisation, you will have all sorts of monetary, tech, security and communication tools you gonna need. 
 
 
 
