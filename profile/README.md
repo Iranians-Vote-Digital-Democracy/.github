@@ -5,10 +5,10 @@
 Iranians.vote is a cyberdemocracy platform that assists you, the Iranian Digital Citizen, together with tens of millions of other Iranians to overcome islamic state, and is your first-go-to toolbox throughout the reconstruction. Imagine it as your buruea, digital foreign affiars ministry, your decentralised movement bank, and the interface with your digital parliament.
 
 
-The platform is designed for Iranians, by Iranians. Be it for grasroot or at country levet, Iranians.vote is there fore you.
+The platform is designed for Iranians, by Iranians. Be it for grasroot or at country level, Iranians.vote is there for you.
 You will have Forum, Voting Tools, Decentralised Banks (dBank), and a Marketplace where needs meet service providers.
 
-You can build a state, United States of Iran.
+You can build a state, a United States of Iran collaborating from all around the world.
 
 ## How it works
 ### Zero Knowledge Proofs for Digital Identity Cards
