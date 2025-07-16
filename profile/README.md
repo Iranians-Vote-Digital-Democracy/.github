@@ -1,4 +1,4 @@
-# Iranian.Votes Cyberdemocracy Platform
+# Iranians.Vote Cyberdemocracy Platform
 
 
 ## Introduction
