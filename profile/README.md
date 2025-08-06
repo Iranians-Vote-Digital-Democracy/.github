@@ -1,5 +1,6 @@
-# Iranians.Vote Cyberdemocracy Platform
+برای یافتن پاسخ‌ها به پرسش‌های متداول FAQ به زبان فارسی به «[این نشانی](https://docs.google.com/document/d/1SW8dw1uZZFK6v5-WNcPyxZtNa08HL_RZ7VfLVNgAa9w/edit?usp=sharing)» بروید.
 
+# Iranians.Vote Cyberdemocracy Platform
 
 ## Introduction
 Iranians.vote is a cyberdemocracy platform that assists you, the Iranian Digital Citizen, together with tens of millions of other Iranians to overcome islamic state, and is your first-go-to toolbox throughout the reconstruction. Imagine it as your buruea, digital foreign affiars ministry, your decentralised movement bank, and the interface with your digital parliament.
