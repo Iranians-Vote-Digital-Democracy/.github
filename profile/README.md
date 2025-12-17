@@ -26,7 +26,7 @@ The identity cards that help you enter the platform are:
 Every vote on Iranians.vote equals 1 Ïrani or roughly 10¢, but commenting and written communication, even ones as advanced as [deliberation](https://deliberation.stanford.edu/), can be done almost for free. [todo: More about registration contracts]()
 
 
-## An interorganisation Body Needed
+## An Interorganisational Is Body Needed
 No signle organisation is capable of handling moderation of such a platform, and it needs all of them to be involved, and way beyond that, all of the of Iranians.
 
 ## How far are we
